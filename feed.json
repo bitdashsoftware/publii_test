@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://bitdashsoftware.github.io/publii_test",
+    "feed_url": "https://bitdashsoftware.github.io/publii_test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Testy Mctester"
+    },
+    "items": [
+        {
+            "id": "https://bitdashsoftware.github.io/publii_test/hello-this-is-a-title.html",
+            "url": "https://bitdashsoftware.github.io/publii_test/hello-this-is-a-title.html",
+            "title": "Hello This is a title",
+            "summary": "Blah Blah Blah ffff",
+            "content_html": "\n  <p>\n    Blah Blah Blah\n  </p>\n\n  <p>\n    ffff\n  </p>",
+            "author": {
+                "name": "Testy Mctester"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-05T20:40:51-07:00",
+            "date_modified": "2025-06-05T20:40:51-07:00"
+        }
+    ]
+}

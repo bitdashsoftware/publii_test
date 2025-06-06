@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://bitdashsoftware.github.io/publii_test/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://bitdashsoftware.github.io/publii_test/</loc>
+</url>
+<url>
+<loc>https://bitdashsoftware.github.io/publii_test/dsdfsdfds.html</loc>
+<lastmod>2025-06-05T20:41:31-07:00</lastmod>
+</url>
+<url>
+<loc>https://bitdashsoftware.github.io/publii_test/hello-this-is-a-title.html</loc>
+<lastmod>2025-06-05T20:40:51-07:00</lastmod>
+</url>
+</urlset>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Test</title>
+    <link href="https://bitdashsoftware.github.io/publii_test/feed.xml" rel="self" />
+    <link href="https://bitdashsoftware.github.io/publii_test" />
+    <updated>2025-06-05T20:40:51-07:00</updated>
+    <author>
+        <name>Testy Mctester</name>
+    </author>
+    <id>https://bitdashsoftware.github.io/publii_test</id>
+
+    <entry>
+        <title>Hello This is a title</title>
+        <author>
+            <name>Testy Mctester</name>
+        </author>
+        <link href="https://bitdashsoftware.github.io/publii_test/hello-this-is-a-title.html"/>
+        <id>https://bitdashsoftware.github.io/publii_test/hello-this-is-a-title.html</id>
+
+        <updated>2025-06-05T20:40:51-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Blah Blah Blah ffff
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Blah Blah Blah
+  </p>
+
+  <p>
+    ffff
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
